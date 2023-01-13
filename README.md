@@ -9,6 +9,6 @@
 - 😄 享受生活
 - ⚡ 期盼一些灵感
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarab&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oscarab&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oscarab)](https://github.com/anuraghazra/github-readme-stats)
